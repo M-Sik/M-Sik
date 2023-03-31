@@ -1,10 +1,30 @@
-<h3>👋 Hi there 👋</h3>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=582492&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+2%EB%85%84%EC%B0%A8+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EB%AA%85%EC%8B%9D%EC%9E%85%EB%8B%88%EB%8B%A4!;%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9D%BC%EB%8A%94+%EA%B2%8C%EC%9E%84%EC%9D%84+%EC%A6%90%EA%B8%B0%EB%A9%B0+%EC%97%B4%EC%8B%AC%ED%9E%88+%EB%A0%88%EB%B2%A8%EC%97%85+%ED%95%98%EA%B3%A0%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
-<br>
-<h3>🛠️ FrontEnd Skills 🛠️</h3>
+<div align="center">
+  <h3>👋 Hi there 👋</h3>
+  <br>
+  <p>안녕하세요! 프론트엔드 개발자 김명식입니다.</p>
+  <p>프로그래밍이라는 게임을 즐기며 열심히 레벨업 하고있습니다.</p>
+  <br>
+  <h3>🛠️ Tech Stack 🛠️</h3>
+  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"/>
+  <br>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff"/>
+  <br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Sik&layout=compact)](https://github.com/M-sik/github-readme-stats)
+  
+  <br>
+  <h3>📚 Blog 📚</h3>
+  <a href="https://sikk.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F05032?style=flat-square&logo=Tistory&logoColor=ffffff"/></a>
+  <br>
+  <br>
+  <h3>📈 GitHub Stats 📈</h3>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Sik&show_icons=true&theme=radical)
+  
+</div>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Sik&layout=compact)](https://github.com/M-sik/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Sik&show_icons=true&theme=radical)
