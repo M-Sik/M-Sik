@@ -11,6 +11,7 @@
   <h3>📖 Studying... 📖</h3>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff"/>
   <br>
   <br>
   <h3>🛠️ Tech Stack 🛠️</h3>
