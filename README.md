@@ -8,21 +8,19 @@
   <a href="https://sikk.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F05032?style=flat-square&logo=Tistory&logoColor=ffffff"/></a>
   <br>
   <br>
-  <h3>📖 Studying... 📖</h3>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff"/>
-  <br>
-  <br>
   <h3>🛠️ Tech Stack 🛠️</h3>
-  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff"/>
   <br>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
+  <br>
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"/>
   <br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Sik&layout=compact)](https://github.com/M-sik/github-readme-stats)
