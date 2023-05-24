@@ -22,6 +22,11 @@
   <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"/>
   <br>
+  <h4>Used at least once</h4>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=ffffff"/>
+  <br>
+  <br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Sik&layout=compact)](https://github.com/M-sik/github-readme-stats)
  
