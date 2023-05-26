@@ -5,8 +5,8 @@
   <p>프로그래밍이라는 게임을 즐기며 열심히 레벨업 하고있습니다.</p>
   <br>
   <h3>📚 Blog 📚</h3>
-  <a href="https://sikk.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F05032?style=flat-square&logo=Tistory&logoColor=ffffff"/></a>
-  <a href="https://siklog.shop/"><img src="https://img.shields.io/badge/Siklog-F7DF1E?style=flat-square&logo=siklog&logoColor=ffffff"/></a>
+  <a href="https://sikk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F05032?style=flat-square&logo=Tistory&logoColor=ffffff"/></a>
+  <a href="https://siklog.shop/" target="_blank"><img src="https://img.shields.io/badge/Siklog-F7DF1E?style=flat-square&logo=siklog&logoColor=ffffff"/></a>
   <br>
   <br>
   <h3>🛠️ Tech Stack 🛠️</h3>
