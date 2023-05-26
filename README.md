@@ -6,6 +6,7 @@
   <br>
   <h3>📚 Blog 📚</h3>
   <a href="https://sikk.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F05032?style=flat-square&logo=Tistory&logoColor=ffffff"/></a>
+  <a href="https://siklog.shop/"><img src="https://img.shields.io/badge/Siklog-F7DF1E?style=flat-square&logo=siklog&logoColor=ffffff"/></a>
   <br>
   <br>
   <h3>🛠️ Tech Stack 🛠️</h3>
